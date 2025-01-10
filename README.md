@@ -4,42 +4,36 @@ Copypast, iOS cihazlar için geliştirilmiş modern ve kullanıcı dostu bir pan
 
 ## 📱 Ekran Görüntüleri
 
-### Ana Ekran ve Temel Özellikler
 <p align="center">
   <img src="foto/IMG_2227.PNG" width="200" alt="Ana Ekran">
   <img src="foto/IMG_2228.PNG" width="200" alt="Pano Listesi">
   <img src="foto/IMG_2229.PNG" width="200" alt="Metin Detayı">
 </p>
 
-### Klavye Uzantısı
 <p align="center">
   <img src="foto/IMG_2230.PNG" width="200" alt="Klavye Uzantısı">
   <img src="foto/IMG_2232.PNG" width="200" alt="Klavye Kullanımı">
   <img src="foto/IMG_2233.PNG" width="200" alt="Hızlı Erişim">
 </p>
 
-### Arama ve Filtreleme
 <p align="center">
   <img src="foto/IMG_2234.PNG" width="200" alt="Arama">
   <img src="foto/IMG_2235.PNG" width="200" alt="Filtreleme">
   <img src="foto/IMG_2236.PNG" width="200" alt="Sonuçlar">
 </p>
 
-### Karanlık Mod
 <p align="center">
   <img src="foto/IMG_2237.PNG" width="200" alt="Karanlık Mod Ana Ekran">
   <img src="foto/IMG_2238.PNG" width="200" alt="Karanlık Mod Liste">
   <img src="foto/IMG_2239.PNG" width="200" alt="Karanlık Mod Detay">
 </p>
 
-### Ayarlar ve Özelleştirme
 <p align="center">
   <img src="foto/IMG_2243.PNG" width="200" alt="Ayarlar">
   <img src="foto/IMG_2244.PNG" width="200" alt="Özelleştirme">
   <img src="foto/IMG_2245.PNG" width="200" alt="Tercihler">
 </p>
 
-### Ek Özellikler
 <p align="center">
   <img src="foto/IMG_2451.PNG" width="200" alt="Ek Özellik 1">
   <img src="foto/IMG_2452.PNG" width="200" alt="Ek Özellik 2">
